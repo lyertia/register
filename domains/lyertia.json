@@ -1,11 +1,11 @@
 {
-  "description": "my website uwu",
+  "description": "A personal bio website for Lyertia.",
   "repo": "https://github.com/lyertia",
   "owner": {
     "username": "lyertia",
-    "email": "camahmut7@gmail.com"
+    "email": "lyertiadev@gmail.com"
   },
   "record": {
-    "URL": "https://lyertia.me"
+    "URL": "https://lyertia.wtf"
   }
 }
